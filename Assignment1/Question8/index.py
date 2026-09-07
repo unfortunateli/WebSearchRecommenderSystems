@@ -3,7 +3,7 @@
 # FILENAME: index.py
 # SPECIFICATION: Builds an inverted index from a document collection using lemmatization and surface-level normalization
 # FOR: CS 4250 - Assignment #1
-# TIME SPENT: 
+# TIME SPENT: 30 minutes
 #-------------------------------------------------------------------------
 
 # Importing Python libraries
